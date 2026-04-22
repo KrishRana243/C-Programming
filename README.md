@@ -58,4 +58,4 @@ This repository contains all my notes, exercises, and projects from the course:
 
 ---
 
-"A journey of a thousand miles begins with a single step"
+> "A journey of a thousand miles begins with a single step"
